@@ -1,6 +1,3 @@
-ffajfhkjdhjkdhkjdhjfjhdf
-
-
 과업: 12월 일정표 짜기
 점수: 1에서 5이며 클수록 좋음
 
